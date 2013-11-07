@@ -1,8 +1,7 @@
-
-public class calculadora {
+public class HelloAlumne {
 
 	public static void main(String[] args) {
-		System.out.println("Soc una calculadora simple");
+		System.out.println("Hola Soc Ivan Grima Lozano");
 
 	}
 
